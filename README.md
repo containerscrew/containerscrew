@@ -1,6 +1,6 @@
 ### Welcome to Containerscrew 🤙
 
-This repo will be focused focused on:
+This repo will be focused on:
 - Kubernetes
 - Python, Golang or C programming
 - Containers
