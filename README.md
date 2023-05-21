@@ -10,7 +10,7 @@ This repo will be focused focused on:
 
 Take a look at [my gists](https://gist.github.com/containerscrew)
 
-I want to try to publish content once a week, both in this github repository and in the website I want to set up under https://containerscrew.com
+I want to try to publish content once a week, both in this github repository and in the website I want to set up under https://containerscrew.com. I also have some repositories to publish that I'm working on, I just need time :)
 
 _Containerscrew_ by [nanih98](https://github.com/nanih98)(Daniels) a simple geek who likes to create things.
 
