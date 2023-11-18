@@ -7,4 +7,4 @@ _Containerscrew_ by [nanih98](https://github.com/nanih98)(Daniels) a simple geek
 [Gitlab Account for other projects](https://gitlab.com/containerscrew1)
 
 <div style="clear: both;"></div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
