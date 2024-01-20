@@ -8,7 +8,7 @@ We could summarize it in:
 
 - AWS
 - Kubernetes (CKA certified)
-- Linux and archlinux lover [dotfiles](https://github.com/containerscrew/dotfiles)
+- Linux and Arch Linux lover [dotfiles](https://github.com/containerscrew/dotfiles)
 - Golang, Rust or Python (I'm a rookie 🚀)
 - Also very interested in how Blockchain works 
 
