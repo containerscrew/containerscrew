@@ -4,7 +4,7 @@
 
 I am a Cloud Engineer currently working with AWS and focused on container platforms. When I grow up I would like to be a systems-oriented software developer 😊 (to be able to participate in the development of a tool like the ones you can [find here](https://landscape.cncf.io/)).
 
-We could summarize it in:
+<h3 align="left">Main languages and technologies</h3>
 
 - AWS
 - Kubernetes (CKA certified)
