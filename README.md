@@ -4,7 +4,7 @@
 
 I am a Cloud Engineer currently working with AWS and focused on container platforms. About a year ago, I became intrigued by the world of cloud-native development like the ones you can [find here](https://landscape.cncf.io/). At the moment, I am practicing creating tools that can make my day-to-day life at work easier. You can find some in my pinned repos.
 
-<h3 align="left">Main languages and technologies</h3>
+<h3 align="left">Main interests in technologies and languages</h3>
 
 - AWS
 - Kubernetes (CKA certified)
