@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
 
-I am a Cloud Engineer currently working with AWS and focused on container platforms. When I grow up I would like to be a systems-oriented software developer 😊 (to be able to participate in the development of a tool like the ones you can [find here](https://landscape.cncf.io/)).
+I am a Cloud Engineer currently working with AWS and focused on container platforms. Since 1 year ago I started to like the world of development oriented towards 'cloud native' applications like the ones you can  [find here](https://landscape.cncf.io/)). At the moment, I am practicing creating tools that can make my day-to-day life at work easier. You can find some in my pinned repos.
 
 <h3 align="left">Main languages and technologies</h3>
 
