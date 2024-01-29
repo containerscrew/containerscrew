@@ -2,13 +2,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
 
-I am a Cloud Engineer currently working with AWS and focused on [container platforms](https://kubernetes.io/). About a year ago, I became intrigued by the world of cloud-native development tools like the ones you can [find here](https://landscape.cncf.io/). Another challenge is learning to program software using eBPF technology ([maybe using this ?](https://aya-rs.dev/book/)😜). At the moment, I am practicing creating tools that can make my day-to-day life at work easier. You can find some in my pinned repos. I want to create technology, not just use it. `“What I cannot create, I do not understand”`
+I am a Cloud Engineer currently working with AWS and focused on [container platforms](https://kubernetes.io/). About a year ago, I became intrigued by the world of cloud-native development tools like the ones you can [find here](https://landscape.cncf.io/). Another challenge is learning to program software using eBPF technology ([maybe using this ?](https://aya-rs.dev/book/)😜). At the moment, I am practicing creating tools that can make my day-to-day life at work easier. You can find some in my pinned repos. I want to create technology, not just use it.
 
 <h3 align="left">Main interests in technologies and languages</h3>
 
 - AWS
 - Kubernetes (CKA certified)
-- Linux and Arch Linux lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
+- Linux lover (Arch Linux for personal environment, and Debian for work). [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
 - Golang, Rust or Python (I'm a rookie 🚀)
 - Also very interested in how Blockchain works
 - Getting introduced to eBPF technology
