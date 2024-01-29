@@ -8,7 +8,7 @@ I am a Cloud Engineer currently working with AWS and focused on [container platf
 
 - AWS
 - Kubernetes (CKA certified)
-- Linux and Arch Linux lover. [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
+- Linux and Arch Linux lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
 - Golang, Rust or Python (I'm a rookie 🚀)
 - Also very interested in how Blockchain works
 - Getting introduced to eBPF technology
