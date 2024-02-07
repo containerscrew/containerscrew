@@ -14,25 +14,25 @@ I am a Cloud Engineer currently working with AWS and focused on [container platf
 - Getting introduced to eBPF technology
 
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="express" width="40" height="40"/>
+  <a href="aws" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
+  <a href="golang" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="rust" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="linux" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="python" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="kubernetes" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="terraform" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
