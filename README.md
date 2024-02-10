@@ -2,8 +2,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
 
-I am a Cloud Engineer currently working with AWS and focused on [container platforms](https://kubernetes.io/). About a year ago, I became intrigued by the world of cloud-native development tools like the ones you can [find here](https://landscape.cncf.io/). Another challenge is learning to program software using eBPF technology ([maybe using this ?](https://aya-rs.dev/book/)😜). At the moment, I am practicing creating tools that can make my day-to-day life at work easier. You can find some in my pinned repos. I want to create technology, not just use it.
-
 <h3 align="left">Main interests in technologies and languages</h3>
 
 - AWS
@@ -43,4 +41,4 @@ I am a Cloud Engineer currently working with AWS and focused on [container platf
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-> _Containerscrew_ by [nanih98](https://github.com/nanih98) a simple geek who likes to create things.
+> _Containerscrew_ by [nanih98](https://github.com/nanih98) a simple geek who likes to create things. I want to create technology, not just use it.
