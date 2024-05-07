@@ -37,8 +37,8 @@
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=containerscrew&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=containerscrew&theme=github_dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&theme=github_dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 > _Containerscrew_ by [nanih98](https://github.com/nanih98) a simple geek who likes to create things. I want to create technology, not just use it.
