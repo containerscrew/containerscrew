@@ -6,9 +6,8 @@
 
 - AWS
 - Kubernetes (CKA certified)
-- Linux and Arch Linux|Debian lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
+- Arch Linux lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
 - Golang, Rust or Python (I'm a rookie 🚀)
-- Getting introduced to eBPF technology
 
 <p align="left">
   <a href="aws" target="_blank" rel="noreferrer">
