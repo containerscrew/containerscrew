@@ -8,6 +8,7 @@
 - Kubernetes (CKA certified)
 - Arch Linux lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
 - Golang, Rust or Python (I'm a rookie 🚀)
+- Deep Learning
 
 <p align="left">
   <a href="aws" target="_blank" rel="noreferrer">
