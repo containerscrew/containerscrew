@@ -44,5 +44,3 @@
 🚀 **Check out some gists:** https://gist.github.com/containerscrew
 
 > _Containerscrew_ by [nanih98](https://github.com/nanih98) a simple geek who likes to create things. I want to create technology, not just use it.
-
-### Actually studying [this course](https://www.coursera.org/specializations/machine-learning-introduction). I will publish all the exercices/tests [in this repo](https://github.com/containerscrew/wall-e)
