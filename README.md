@@ -29,6 +29,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=containerscrew&theme=github_dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-🚀 **Check out some gists:** https://gist.github.com/containerscrew
-
-> _I want to create technology, not just use it._
+> 🚀 _I want to create technology, not just use it._
