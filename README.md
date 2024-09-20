@@ -1,14 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/danicromero" target="_blank">Daniels</a> <img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="25"> </samp>
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
-
-<h3 align="left">Main interests in technologies and languages</h3>
-
-- AWS
-- Kubernetes (CKA certified)
-- Arch Linux lover [Take a look at my working setup](https://github.com/containerscrew/dotfiles)
-- Golang, Rust or Python (I'm a rookie 🚀)
-- Deep Learning
+### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/danicromero" target="_blank">Daniels</a> <img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="25"> </samp> ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
 
 <p align="left">
   <a href="aws" target="_blank" rel="noreferrer">
