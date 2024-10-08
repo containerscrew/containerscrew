@@ -34,4 +34,6 @@
 > [!IMPORTANT]  
 > Actually working in this personal project: https://github.com/containerscrew/kernelsnoop
 
-[*Full Repo List*](https://github.com/containerscrew?tab=repositories)
+Other tools:  
+[`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI 
+
