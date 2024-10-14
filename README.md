@@ -22,6 +22,9 @@
   <a href="terraform" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="express" width="40" height="40"/>
   </a>
+  <a href="golang" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/7816/7816741.png" alt="bee" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
