@@ -35,6 +35,6 @@
 > Actually working in this personal project: https://github.com/containerscrew/kernelsnoop
 
 Other tools:  
-[`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI
+[`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
 [`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files
 
