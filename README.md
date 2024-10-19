@@ -28,7 +28,9 @@
 > 🚀 _I want to create technology, not just use it._
 
 > [!IMPORTANT]  
-> Actually working in this personal project: https://github.com/containerscrew/kernelsnoop
+> Actually working in this projects using ebpf:  
+> https://github.com/containerscrew/kernelsnoop  
+> https://github.com/containerscrew/ebpfw
 
 Other tools:  
 [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
