@@ -30,7 +30,7 @@
 > [!IMPORTANT]  
 > Actually working in this projects using ebpf:  
 > https://github.com/containerscrew/kernelsnoop  
-> https://github.com/containerscrew/ebpfw
+> https://github.com/containerscrew/nflux
 
 Other tools:  
 [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
