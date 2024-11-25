@@ -37,6 +37,6 @@
 
 Other tools:  
 [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
-[`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files
+[`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files  
 [`helm-chart`](https://gitlab.com/containerscrew1/charts): some custom helm charts to reuse in many projects
 
