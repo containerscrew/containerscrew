@@ -18,6 +18,9 @@
   </a><a href="bee" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/7816/7816741.png" alt="bee" width="40" height="40"/>
   </a>
+  </a><a href="blockchain" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="bee" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
@@ -35,4 +38,5 @@
 Other tools:  
 [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
 [`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files
+[`helm-chart`](https://gitlab.com/containerscrew1/charts): some custom helm charts to reuse in many projects
 
