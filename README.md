@@ -31,13 +31,13 @@
 > 🚀 _I want to create technology, not just use it._
 
 > [!IMPORTANT]  
-> Actually working in this projects using ebpf:  
-> https://github.com/containerscrew/kernelsnoop  
+> Actually working in this project using ebpf:  
 > https://github.com/containerscrew/nflux
 
 Other tools:  
-[`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
-[`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files  
-[`helm-charts`](https://gitlab.com/containerscrew1/charts): some custom helm charts to reuse in many projects
-[`aws-sso-auth`](https://github.com/containerscrew/aws-sso-auth): fetch your local `~/.aws/credentials` using AWS SSO (Public Archive)
+* [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
+* [`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files  
+* [`helm-charts`](https://gitlab.com/containerscrew1/charts): some custom helm charts to reuse in many projects  
+* [`aws-sso-auth`](https://github.com/containerscrew/aws-sso-auth): fetch your local `~/.aws/credentials` using AWS SSO (Public Archive)  
+* [`kernelsnoop`](https://github.com/containerscrew/kernelsnoop): initial steps with `ebpf` using `ebpf-go` from Cilium.
 
