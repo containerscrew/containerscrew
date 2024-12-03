@@ -39,4 +39,5 @@ Other tools:
 [`cloudsnake`](https://github.com/containerscrew/cloudsnake): wrapping some awscli commands with beautiful TUI  
 [`gitrack`](https://github.com/containerscrew/gitrack): scan local git repositories and check untracked files  
 [`helm-charts`](https://gitlab.com/containerscrew1/charts): some custom helm charts to reuse in many projects
+[`aws-sso-auth`](https://github.com/containerscrew/aws-sso-auth): fetch your local `~/.aws/credentials` using AWS SSO (Public Archive)
 
