@@ -41,4 +41,5 @@ Other tools:
 * [`aws-sso-auth`](https://github.com/containerscrew/aws-sso-auth): fetch your local `~/.aws/credentials` using AWS SSO (Public Archive)  
 * [`kernelsnoop`](https://github.com/containerscrew/kernelsnoop): initial steps with `ebpf` using `ebpf-go` from Cilium
 * [`devstdout`](https://github.com/containerscrew/devstdout): basic Golang `slog` wrapper
+* [`iproxy`](https://github.com/containerscrew/iproxy): simple API in Rust using axum and mongodb
 
