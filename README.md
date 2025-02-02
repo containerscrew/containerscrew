@@ -42,4 +42,5 @@ Other tools:
 * [`kernelsnoop`](https://github.com/containerscrew/kernelsnoop): initial steps with `ebpf` using `ebpf-go` from Cilium
 * [`devstdout`](https://github.com/containerscrew/devstdout): basic Golang `slog` wrapper
 * [`iproxy`](https://github.com/containerscrew/iproxy): simple API in Rust using axum and mongodb
+* [`bucketscan`](https://github.com/containerscrew/bucketscan): simple bucket brute force scanner
 
