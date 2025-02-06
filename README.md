@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/danicromero" target="_blank">Daniels</a> <img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="25"> </samp> ![](https://visitor-badge.laobi.icu/badge?page_id=containerscrew)
 
-`I work as a Cloud Engineer, mainly with AWS and technologies like Kubernetes (and the entire cloud native applications ecosystem).For more than 1 year now, I started to like the world of programming, especially systems oriented. I am learning eBPF and languages like Golang, Rust or Python.`
+_I work as a Cloud Engineer, mainly with AWS and technologies like Kubernetes (and the entire cloud native applications ecosystem). For more than 1 year now, I started to like the world of programming, especially systems oriented. I am learning eBPF and languages like Golang, Rust or Python.`_
 
 <p align="left">
   <a href="aws" target="_blank" rel="noreferrer">
